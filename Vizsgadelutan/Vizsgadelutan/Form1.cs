@@ -18,6 +18,8 @@ namespace Vizsgadelutan
         public Form1()
         {
             InitializeComponent();
+            loadData();
+
         }
 
         public void loadData()
