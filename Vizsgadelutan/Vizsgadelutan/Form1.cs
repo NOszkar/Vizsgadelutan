@@ -42,5 +42,11 @@ namespace Vizsgadelutan
                 }
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string marka = textBox1.Text;
+
+        }
     }
 }
