@@ -30,7 +30,7 @@ namespace Vizsgadelutan
                 while (!sr.EndOfStream)
                 {
                     var line = sr.ReadLine().Split(';');
-                    var auto = new Gepkocsi.Gepkocsi();
+                    var auto = new gepkocsi();
                     auto.Tipusnev = line[0];
                     auto.Rendszam = line[1];
                     auto.Evjarat = Int32.Parse(line[2]);
