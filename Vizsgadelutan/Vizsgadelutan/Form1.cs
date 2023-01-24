@@ -12,6 +12,7 @@ namespace Vizsgadelutan
 {
     public partial class Form1 : Form
     {
+        List<Gepkocsi.Gepkocsi> autok = new List<Gepkocsi.Gepkocsi>();
         public Form1()
         {
             InitializeComponent();
