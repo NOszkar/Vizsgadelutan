@@ -19,6 +19,7 @@ namespace Vizsgadelutan
         {
             InitializeComponent();
             loadData();
+            dataGridView1.DataSource = autok;
 
         }
 

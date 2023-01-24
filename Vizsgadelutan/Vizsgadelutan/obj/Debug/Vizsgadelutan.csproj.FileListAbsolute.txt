@@ -7,3 +7,4 @@ C:\Users\GUGX7R\Desktop\Vizsgadelutan\Vizsgadelutan\Vizsgadelutan\bin\Debug\Vizs
 C:\Users\GUGX7R\Desktop\Vizsgadelutan\Vizsgadelutan\Vizsgadelutan\bin\Debug\Vizsgadelutan.pdb
 C:\Users\GUGX7R\Desktop\Vizsgadelutan\Vizsgadelutan\Vizsgadelutan\obj\Debug\Vizsgadelutan.exe
 C:\Users\GUGX7R\Desktop\Vizsgadelutan\Vizsgadelutan\Vizsgadelutan\obj\Debug\Vizsgadelutan.pdb
+C:\Users\GUGX7R\Desktop\Vizsgadelutan\Vizsgadelutan\Vizsgadelutan\obj\Debug\Vizsgadelutan.Form1.resources
